@@ -1,4 +1,4 @@
 Test
 ====
 
-Sample Documentation Master
+Sample Documentation Version 2
